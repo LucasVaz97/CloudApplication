@@ -7,7 +7,7 @@ pip3 install boto3
 ```
 The file `config.py` can be edited to change details about the instances that are going to be launched.
 
-*NOTE:Changing the userData variable might compromise the application.*
+*NOTE:Changing the userData variables might compromise the application.*
 ##### Launch the application
 ```bash
 python3 LaunchApplication.py
